@@ -26,10 +26,6 @@ The objective of this **Web Application Development internship project** is to b
 
 ## Application Overview
 
-### Data Loading into the Database:
-- Import the provided invoices database into **MySQL**.
-- Use the provided SQL file for the **order amount prediction dataset**.
-
 ### UI Representation of Data:
 - Create a responsive user interface to display the invoice data.
 - Implement features such as search and pagination.
