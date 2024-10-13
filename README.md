@@ -20,7 +20,7 @@ The objective of this **Web Application Development internship project** is to b
 - **Predict Button**: Activate prediction functionality for order amounts based on selected invoice data.
 - **View - Analytics**: Include an analytics view with bar charts and pie charts.
 
-### Optional Features:
+### Optional Feature:
 - **Advanced Search**: Implement an advanced search functionality.
 ---
 
